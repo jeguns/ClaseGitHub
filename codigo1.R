@@ -5,3 +5,4 @@ median(x)
 S = sum(x)/3
 f = var(x)/9.89
 T = sum(x)
+M = median(x)
